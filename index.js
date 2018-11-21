@@ -32,3 +32,5 @@ exports.createMatch = function(players) {
         }
     }
 }
+
+exports.table = bingo;

@@ -1,6 +1,6 @@
 {
-  "name": "bingouse",
-  "version": "1.0.0",
+  "name": "bingo-tombola",
+  "version": "1.0.1",
   "description": "\"A simple bingo use\"",
   "main": "index.js",
   "dependencies": {
@@ -14,5 +14,13 @@
     "Bingo"
   ],
   "author": "Carlo Leonardi <carloleonardi83@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lionhard83/bingo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lionhard83/bingo/issues"
+  },
+  "homepage": "https://github.com/lionhard83/bingo#readme"
 }
