@@ -1,5 +1,6 @@
 var bingo = require('bingo-extract');
 
+exports.table = bingo;
 
 exports.createTable = function(){
     bingo.reset();
@@ -32,5 +33,3 @@ exports.createMatch = function(players) {
         }
     }
 }
-
-exports.table = bingo;

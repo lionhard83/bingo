@@ -16,5 +16,6 @@ console.log(bingo.createMatch(players)); // create a new match
 console.log(bingo.table.getExtracted()); // get the extracted number
 bingo.table.reset(); // start a new match
 console.log(bingo.table.getBag()); // get the not extracted number
+console.log(bingo.table.extract()); // extract a number
 
 ```

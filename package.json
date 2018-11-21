@@ -1,6 +1,6 @@
 {
   "name": "bingo-tombola",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "\"A simple bingo use\"",
   "main": "index.js",
   "dependencies": {
