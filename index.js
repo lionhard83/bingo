@@ -1,5 +1,5 @@
 var bingo = require('bingo-extract');
-console.log("test develop");
+console.log("test develop: with mocha");
 
 exports.table = bingo;
 
