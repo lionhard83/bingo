@@ -1,5 +1,5 @@
 var bingo = require('bingo-extract');
-console.log("test develop2");
+console.log("test develop3");
 
 exports.table = bingo;
 
