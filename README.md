@@ -19,3 +19,4 @@ console.log(bingo.table.getBag()); // get the not extracted number
 console.log(bingo.table.extract()); // extract a number
 
 ```
+Good Luck!
